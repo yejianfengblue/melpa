@@ -1,1 +1,1 @@
-(undo-fu :fetcher codeberg :repo "ideasman42/emacs-undo-fu")
+(undo-fu :fetcher github :repo "emacsmirror/emacs-undo-fu")

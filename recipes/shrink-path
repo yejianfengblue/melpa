@@ -1,1 +1,1 @@
-(shrink-path :fetcher gitlab :repo "bennya/shrink-path.el")
+(shrink-path :fetcher github :repo "emacsmirror/shrink-path.el")
